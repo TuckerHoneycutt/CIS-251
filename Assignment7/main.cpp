@@ -1,3 +1,10 @@
+/**
+Name: Tucker Honeycutt
+Date: 6/23/2025
+Class: CIS 251
+Assignment: #7
+*/
+
 #include <iostream>
 #include <iomanip>
 #include <fstream>
